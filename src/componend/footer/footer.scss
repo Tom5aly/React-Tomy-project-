@@ -1,0 +1,23 @@
+.footer {
+  background: gainsboro;
+  padding: 0.5rem 1rem;
+  display: grid;
+  grid-template-columns: auto 1fr;
+  text-align: center;
+  display: block;
+  height: 6rem;
+  a {
+    margin: 0.2rem;
+    opacity: 0.4;
+    margin-bottom: 0.7rem;
+  }
+}
+#ico {
+  font-size: 1.2rem;
+}
+
+.last {
+  font-size: 1.1rem;
+  font-style: initial;
+  padding-bottom: 2rem;
+}

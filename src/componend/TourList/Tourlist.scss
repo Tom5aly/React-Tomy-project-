@@ -1,0 +1,32 @@
+@import "../../index.scss";
+.TourList {
+  width: 80vw;
+  margin: 0 auto;
+  padding: 2rem 0;
+}
+
+@media screen and (min-width: 719px) {
+  .TourList {
+    display: grid;
+    grid-column-gap: 1.5rem;
+    grid-template-columns: 1fr 1fr;
+  }
+}
+@media screen and (min-width: 900px) {
+  .TourList {
+    display: grid;
+    grid-column-gap: 1.5rem;
+    grid-template-columns: 1fr 1fr 1fr;
+  }
+}
+
+@media screen and (min-width: 1200px) {
+  .TourList {
+    display: grid;
+    grid-column-gap: 1.5rem;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
+  }
+}
+// .tour {
+//   position: relative;
+// }
