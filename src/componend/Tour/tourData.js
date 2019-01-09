@@ -1,7 +1,7 @@
 export const tourData = [
   {
     num: 1,
-    city: "UK",
+    sup: "UK",
     img: "./img/breaxit.jpg",
     name: "Brexit Update",
     info: "Brexit: Second Commons defeat for Theresa May in 24 hours",
@@ -9,7 +9,7 @@ export const tourData = [
   },
   {
     num: 2,
-    city: "Sport",
+    sup: "Sport",
     img: "./img/sport.jpg",
     name: "Football",
     info:
@@ -18,7 +18,7 @@ export const tourData = [
   },
   {
     num: 3,
-    city: "Sport",
+    sup: "Sport",
     img: "./img/salah.jpg",
     name: "Football",
     info:
@@ -27,7 +27,7 @@ export const tourData = [
   },
   {
     num: 4,
-    city: "Lifestyle",
+    sup: "Lifestyle",
     img: "../img/life.jpg",
     name: "Lifestyle",
     info:
@@ -37,7 +37,7 @@ export const tourData = [
   },
   {
     num: 5,
-    city: "Sport",
+    sup: "Sport",
     img: "../img/hazerd.jpg",
     name: "Football",
     info:
@@ -46,7 +46,7 @@ export const tourData = [
   },
   {
     num: 6,
-    city: "Entertainment",
+    sup: "Entertainment",
     img: "../img/fun.jpg",
     name: "Celebrity news",
     info: "I'm done with it’: Kevin Hart confirms he will not host the Oscars",
@@ -55,7 +55,7 @@ export const tourData = [
   },
   {
     num: 7,
-    city: "Food",
+    sup: "Food",
     img: "../img/food.jpg",
     name: "weirdest diets",
     info: "TAKE THE TEST: Do you know history's weirdest diets?",
@@ -63,7 +63,7 @@ export const tourData = [
   },
   {
     num: 8,
-    city: "bizarre news ",
+    sup: "bizarre news ",
     img: "../img/art.jpg",
     name: "Elvis met Nixon",
     info: "Getting weird in the West Wing: When Elvis met Nixon",

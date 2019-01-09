@@ -11,7 +11,7 @@ export default class tour extends Component {
     });
   };
   render() {
-    let { num, city, img, name, info, link } = this.props.tour;
+    let { num, sup, img, name, info, link } = this.props.tour;
     return (
       <article className="tour">
         <div className="img-continer">
@@ -23,7 +23,7 @@ export default class tour extends Component {
           </span>
         </div>
         <div className="tour-info">
-          <h3>{city} </h3>
+          <h3>{sup} </h3>
           <h4>{name} </h4>
           <h5>
             Brief{""}
