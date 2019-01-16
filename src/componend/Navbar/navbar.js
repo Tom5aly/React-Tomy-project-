@@ -18,7 +18,7 @@ export default function navbar() {
       </li>
       <li>
         <a
-          href="https://tom5aly.github.io/Profile.html"
+          href="https://tom5aly.github.io/profile/"
           target="_blank"
           className="nav-link"
         >
